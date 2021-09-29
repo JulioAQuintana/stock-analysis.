@@ -19,4 +19,3 @@
 ### How do these pros and cons apply to refactoring the original VBA script?
 #### after perform the first strucutre the way to increase data in the format could be easy.
 
-#### For extra analysis reference please see the attached file [Stock-analysis](https://github.com/JulioAQuintana/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip)
